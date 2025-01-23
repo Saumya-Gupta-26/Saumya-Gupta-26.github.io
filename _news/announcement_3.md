@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-26 11:45:00-0400
+date: 2025-01-22 12:45:00-0400
 inline: true
 ---
 
-[Paper](https://arxiv.org/pdf/2306.05671) accepted at NeurIPS 2023! :tada:
+[Paper](https://arxiv.org/pdf/2410.16646) accepted at ICLR 2025! :tada:
