@@ -28,7 +28,7 @@ More at [Web of Science](https://www.webofscience.com/wos/author/record/KYQ-1704
 
 <b>Course</b>: Biomedical Informatics Bootcamp<br>
 <b>Role</b>: Teaching Assistant<br>
-<b>Terms</b>: <a href="https://bmi.stonybrookmedicine.edu/Bootcamp/Bootcamp-Fall-2024">Fall 2024</a>, Spring 2024, <a href="https://bmi.stonybrookmedicine.edu/bootcamp2023/overview">Fall 2023</a><br>
+<b>Terms</b>: <a href="https://bmi.stonybrookmedicine.edu/Bootcamp/Bootcamp-Spring-2025">Spring 2025</a>, <a href="https://bmi.stonybrookmedicine.edu/Bootcamp/Bootcamp-Fall-2024">Fall 2024</a>, Spring 2024, <a href="https://bmi.stonybrookmedicine.edu/bootcamp2023/overview">Fall 2023</a><br>
 <b>University</b>: Stony Brook University <br>
 
 <b>Course</b>: Theory of Computation (CSE303)<br>
