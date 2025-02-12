@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 ***
-<h2>tutorials</h2>
+<h2>workshops / tutorials</h2>
 - [Topology-Driven Image Analysis](https://topology-miccai.github.io/) at [MICCAI 2023](https://conferences.miccai.org/2023/en/)<br>
 - [The First Workshop on Topology and Graph-Informed Imaging Informatics (TGI3)](https://topology-miccai.github.io/First_TGI_2024.html) ([Proceedings](https://www.researchgate.net/profile/Yashbir-Singh/publication/384927912_Topology-_and_Graph-Informed_Imaging_Informatics/links/670e7a6dd6af5f42408a8a85/Topology-and-Graph-Informed-Imaging-Informatics.pdf)) at [MICCAI 2024](https://conferences.miccai.org/2024/en/)<br>
 
