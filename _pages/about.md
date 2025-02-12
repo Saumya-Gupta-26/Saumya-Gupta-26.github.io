@@ -23,4 +23,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! My name is Saumya Gupta. I am currently pursuing my PhD in Computer Science at Stony Brook University, where I am advised by Professor [Chao Chen](https://chaochen.github.io/). 
 
-My research interests are in the areas of Computer Vision, Machine Learning, Topological Data Analysis, and Medical Image Analysis. 
+My research interests are in the areas of Computer Vision, Machine Learning, Deep Learning, Topological Data Analysis, and Medical Image Analysis. 
