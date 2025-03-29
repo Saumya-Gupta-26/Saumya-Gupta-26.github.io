@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV; For pdf, click icon -->
+title: cv
 nav: true
 nav_order: 2
 cv_pdf: cv.pdf
