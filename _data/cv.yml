@@ -6,7 +6,7 @@
     # - name: Date of Birth
     #   value: 1996
     - name: Languages
-      value: English (Proficient), Hindi  (Proficient), Arabic (Minimal), Japanese (Minimal)
+      value: English (Proficient), Hindi  (Proficient), Arabic (Minimal)
 
 - title: Education
   type: time_table
@@ -23,7 +23,7 @@
       #       - Sub-description 2.
     - title: B.Tech Computer Science
       institution: National Institute of Technology Karnataka, Surathkal, India
-      year: 2018
+      year: 2014 - 2018
       # description:
       #   - Description 1.
       #   - Description 2.
