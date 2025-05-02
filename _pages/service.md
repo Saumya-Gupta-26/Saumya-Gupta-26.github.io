@@ -13,6 +13,7 @@ nav_order: 3
 
 ***
 <h2>reviewing</h2>
+- Reviewer ICCV 2025 <br>
 - Reviewer ICME 2025 <br>
 - Reviewer AAAI 2025 <br>
 - Reviewer ECCV [2024 + Outstanding Reviewer Award!](https://eccv.ecva.net/Conferences/2024/Reviewers) <br>
