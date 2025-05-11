@@ -17,7 +17,7 @@ nav_order: 3
 - Reviewer ICME 2025 <br>
 - Reviewer AAAI 2025 <br>
 - Reviewer ECCV [2024 + Outstanding Reviewer Award!](https://eccv.ecva.net/Conferences/2024/Reviewers) <br>
-- Reviewer CVPR 2025, [2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee) <br>
+- Reviewer CVPR [2025 + Outstanding Reviewer Award!](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee), [2024](https://cvpr.thecvf.com/Conferences/2024/ProgramCommittee) <br>
 - Reviewer ICLR [2024 + Outstanding Reviewer Award!](https://iclr.cc/Conferences/2024/Reviewers) <br>
 - Reviewer NeurIPS [2024](https://neurips.cc/Conferences/2024/ProgramCommittee), [2023](https://neurips.cc/Conferences/2023/ProgramCommittee) <br>
 - Reviewer ICML 2025, [2024](https://icml.cc/Conferences/2024/Reviewers) <br>
